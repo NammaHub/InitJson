@@ -1,0 +1,15 @@
+{
+  "name": "InitJson",
+  "version": "1.0.0",
+  "author": "Init.io",
+  "maintainer": "Siam Rayhan",
+  "sentence": "A JSON library for Arduino.",
+  "paragraph": "Provides classes to handle JSON objects and arrays.",
+  "category": "Data Processing",
+  "url": "https://github.com/init-io/InitJson",
+  "architectures": ["*"],
+  "includes": "InitJson.h",
+  "dependencies": {
+    "ArduinoJson": ">=7.0.0"
+  }
+}
